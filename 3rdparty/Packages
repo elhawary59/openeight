@@ -212,18 +212,6 @@ OE: 2.0
 HomePage: http://www.isettinge2.com
 Priority: optional
 
-Package: enigma2-plugin-extensions-jedimakerxtream
-Version: 5.32.20200513
-Depends: python-lzma
-Section: misc
-Architecture: all
-Maintainer: kiddac
-MD5Sum: 3788cbd10de2db78ababb9b33f70c2fe
-Size: 1804796
-Filename: enigma2-plugin-extensions-jedimakerxtream_5.32.20200513_all.ipk
-Description: Jedi Maker Xtream
-Priority: optional
-
 Package: enigma2-plugin-extensions-livefootball
 Version: 7.1
 Section: base
