@@ -835,18 +835,6 @@ Description: xbmc Wetter Plugin
 HomePage: http://www.kashmir-plugins.de
 Priority: optional
 
-Package: enigma2-plugin-extensions-xstreamity
-Version: 1.31.20200509
-Depends: python-image, python-imaging, python-argparse, python-requests, python-multiprocessing
-Section: misc
-Architecture: all
-Maintainer: kiddac
-MD5Sum: 8a7f8ad18a24c7b48b3c5a56529339bb
-Size: 1089640
-Filename: enigma2-plugin-extensions-xstreamity_1.31.20200509_all.ipk
-Description: IPTV Xtream Codes playlists player by KiddaC
-Priority: optional
-
 Package: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.transparent
 Version: 2020-04-29--20-31-15
 Section: base
