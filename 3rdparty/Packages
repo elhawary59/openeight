@@ -241,14 +241,13 @@ HomePage: none
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediaportal
-Version: 2020032201
-Depends: python-netclient, python-six, python-pprint, python-email, python-json, python-pyopenssl, python-xml, python-html, python-pycrypto, python-misc, python-numbers, python-textutils, python-twisted-core, python-twisted-web, python-compression, python-imaging, python-requests (>= 2.11.1)
-Recommends: python-pkgutil, nodejs (>= 4.4.3), python-subprocess, python-youtube-dl (>= 2020.01.24)
+Version: 2020053102
+Depends: python-youtube-dl (>= 2020.05.08), python-pkgutil, nodejs (>= 4.4.3), python-subprocess, python-netclient, python-six, python-pprint, python-email, python-json, python-pyopenssl, python-xml, python-html, python-pycrypto, python-misc, python-numbers, python-textutils, python-twisted-core, python-twisted-web, python-compression, python-imaging, python-requests (>= 2.11.1)
 Section: extra
 Architecture: all
 Maintainer: MP
-MD5Sum: e2c6f46b321e6e7fce3000a095eb2bf4
-Size: 3236586
+MD5Sum: ad13ea0de232e94ca67f1904e1c219f1
+Size: 3244818
 Filename: enigma2-plugin-extensions-mediaportal_all.ipk
 Source: GIT
 Description: MediaPortal
