@@ -2738,6 +2738,20 @@ HomePage: https://www.linuxsat-support.com
 License: GPLv2+
 Priority: optional
 
+Package: enigma2-plugin-picons-delta.dark-on-white-220x132
+Version: 1.0+git17+2c0126c-r2
+Section: base
+Architecture: all
+Maintainer: Atom89
+MD5Sum: 59605e33ada509f736c97aec553327a6
+Size: 1475960
+Filename: enigma2-plugin-picons-delta.dark-on-white-220x132_1.0+git17+2c0126c-r2_all.ipk
+Source: enigma2-plugin-picons-delta.dark-on-white-220x132.bb
+Description: picons-delta-dark-on-white-220x132
+OE: enigma2-plugin-picons-delta.dark-on-white-220x132
+License: GPLv2+
+Priority: required
+
 Package: enigma2-plugin-picons-tv-australia
 Version: 3.0+git352+e68b9af-r1
 Section: base
@@ -4258,13 +4272,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.13e-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: ba46fbaa6082ff6a46198640b543f8ba
-Size: 728
-Filename: enigma2-plugin-settings-malimali.13e-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 11070ef36c0b9866896bc84c42ec308f
+Size: 730
+Filename: enigma2-plugin-settings-malimali.13e-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.13e.bb
 Description: Malimali 13E Sat E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-malimali.13e
@@ -4272,14 +4286,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.13e-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-malimali.13e (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-malimali.13e (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 3f2c6952568226bec0aae4cbfb352752
-Size: 762
-Filename: enigma2-plugin-settings-malimali.13e-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: ae2f2c51bf5a4096499c34476a52ef36
+Size: 764
+Filename: enigma2-plugin-settings-malimali.13e-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.13e.bb
 Description: Malimali 13E Sat E2 Settings File - Development files
 OE: enigma2-plugin-settings-malimali.13e
@@ -4287,13 +4301,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.13e.16e.19e.28e-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 1ee809015c611f0f575a48d141cceb4b
+MD5Sum: e05879f809ea80c07a09c454634874d9
 Size: 750
-Filename: enigma2-plugin-settings-malimali.13e.16e.19e.28e-dbg_1.0+git4232+edc00a6-r6_all.ipk
+Filename: enigma2-plugin-settings-malimali.13e.16e.19e.28e-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.13e.16e.19e.28e.bb
 Description: Malimali 13E, 16E, 19.2E, 28.2E Sat E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-malimali.13e.16e.19e.28e
@@ -4301,14 +4315,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.13e.16e.19e.28e-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-malimali.13e.16e.19e.28e (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-malimali.13e.16e.19e.28e (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 2e540f4e4c4869680dd4a370208db884
-Size: 780
-Filename: enigma2-plugin-settings-malimali.13e.16e.19e.28e-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 31a29a528f999262430bc3821ff3deba
+Size: 784
+Filename: enigma2-plugin-settings-malimali.13e.16e.19e.28e-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.13e.16e.19e.28e.bb
 Description: Malimali 13E, 16E, 19.2E, 28.2E Sat E2 Settings File - Development files
 OE: enigma2-plugin-settings-malimali.13e.16e.19e.28e
@@ -4316,13 +4330,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.13e.16e.19e.28e
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: d08fe655efa96846a7a9a27dbd0bf418
-Size: 73672
-Filename: enigma2-plugin-settings-malimali.13e.16e.19e.28e_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 4fb6f10c8ef74270d03f2d15ba6e39f7
+Size: 73684
+Filename: enigma2-plugin-settings-malimali.13e.16e.19e.28e_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.13e.16e.19e.28e.bb
 Description: Malimali 13E, 16E, 19.2E, 28.2E Sat E2 Settings File
 OE: enigma2-plugin-settings-malimali.13e.16e.19e.28e
@@ -4330,13 +4344,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.13e.19e-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 2749f00ec85899e267e019372b587ba6
-Size: 736
-Filename: enigma2-plugin-settings-malimali.13e.19e-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: ce3b6eacffe4ee78d7ac8422284f120c
+Size: 738
+Filename: enigma2-plugin-settings-malimali.13e.19e-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.13e.19e.bb
 Description: Malimali 13E, 19.2E Sat E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-malimali.13e.19e
@@ -4344,14 +4358,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.13e.19e-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-malimali.13e.19e (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-malimali.13e.19e (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 4fa8b0a7aa029945cdfc4e125a3b814c
-Size: 768
-Filename: enigma2-plugin-settings-malimali.13e.19e-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: cdf5e3681c9289b2fa70a2e3dcd8f251
+Size: 772
+Filename: enigma2-plugin-settings-malimali.13e.19e-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.13e.19e.bb
 Description: Malimali 13E, 19.2E Sat E2 Settings File - Development files
 OE: enigma2-plugin-settings-malimali.13e.19e
@@ -4359,13 +4373,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.13e.19e
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: d59115331ceab7141f702b68ae84041e
-Size: 47436
-Filename: enigma2-plugin-settings-malimali.13e.19e_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: dbcc3dd47fbcd5b923cb514450e2c2c2
+Size: 47476
+Filename: enigma2-plugin-settings-malimali.13e.19e_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.13e.19e.bb
 Description: Malimali 13E, 19.2E Sat E2 Settings File
 OE: enigma2-plugin-settings-malimali.13e.19e
@@ -4373,13 +4387,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.13e
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: a7024feca2106ddb0f4ce3c6383b09c3
-Size: 28466
-Filename: enigma2-plugin-settings-malimali.13e_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: d5880ed8a119312bd70c81c82b0ccb97
+Size: 28462
+Filename: enigma2-plugin-settings-malimali.13e_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.13e.bb
 Description: Malimali 13E Sat E2 Settings File
 OE: enigma2-plugin-settings-malimali.13e
@@ -4387,13 +4401,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.19e-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 4f03c8e4128cedf5c9cd523bd2ae935c
-Size: 724
-Filename: enigma2-plugin-settings-malimali.19e-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: cc4f846873b076fe15aa8ff0d3c16fa5
+Size: 732
+Filename: enigma2-plugin-settings-malimali.19e-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.19e.bb
 Description: Malimali 19.2E Sat E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-malimali.19e
@@ -4401,14 +4415,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.19e-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-malimali.19e (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-malimali.19e (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: c8941c4256a2dcf8aa47fef9b6749c2c
-Size: 760
-Filename: enigma2-plugin-settings-malimali.19e-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: b4f024702002aaaaf2cc00e9fc3fefef
+Size: 766
+Filename: enigma2-plugin-settings-malimali.19e-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.19e.bb
 Description: Malimali 19.2E Sat E2 Settings File - Development files
 OE: enigma2-plugin-settings-malimali.19e
@@ -4416,13 +4430,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.19e
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 8aba920c0a1ce1dc805c81017d9df18b
-Size: 22680
-Filename: enigma2-plugin-settings-malimali.19e_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: b8f629de381ca913b732285fa94ce42c
+Size: 22658
+Filename: enigma2-plugin-settings-malimali.19e_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.19e.bb
 Description: Malimali 19.2E Sat E2 Settings File
 OE: enigma2-plugin-settings-malimali.19e
@@ -4430,13 +4444,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 00cc2b3d1f33fc74fb09861b4e22fc07
+MD5Sum: b07f0d8a7d47b6c659ab662a9d509b01
 Size: 768
-Filename: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w-dbg_1.0+git4232+edc00a6-r6_all.ipk
+Filename: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w.bb
 Description: Malimali 39E, 28.2E, 23.5E, 19.2E, 16E, 13E, 0.8W Sat E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w
@@ -4444,14 +4458,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: e0a9c120fbdece3b8d99bb571e8bbb0b
+MD5Sum: 6c7b316b41593210b0d7d6970f3bb4d0
 Size: 802
-Filename: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w-dev_1.0+git4232+edc00a6-r6_all.ipk
+Filename: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w.bb
 Description: Malimali 39E, 28.2E, 23.5E, 19.2E, 16E, 13E, 0.8W Sat E2 Settings File - Development files
 OE: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w
@@ -4459,13 +4473,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 36fed5feed9d80c0a93558758bc41424
-Size: 97968
-Filename: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 3ea0e844b361ead3612b808f8d49cd19
+Size: 97988
+Filename: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w.bb
 Description: Malimali 39E, 28.2E, 23.5E, 19.2E, 16E, 13E, 0.8W Sat E2 Settings File
 OE: enigma2-plugin-settings-malimali.39e.28e.23e.19e.16e.13e.0.8w
@@ -4473,13 +4487,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 1fa6f096aaa484d7e01a5aff194c87c9
-Size: 774
-Filename: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 25ea7d21aac0694e5431187e7965971a
+Size: 782
+Filename: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w.bb
 Description: Malimali 39E, 28.2E, 26E, 23.5E, 19.2E, 16E, 13E, 7E, 0.8W Sat E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w
@@ -4487,14 +4501,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: ff779b1d1fac694c97d947205d27624f
-Size: 810
-Filename: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 155ee00ce19611a469da3b1b836fdf9d
+Size: 814
+Filename: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w.bb
 Description: Malimali 39E, 28.2E, 26E, 23.5E, 19.2E, 16E, 13E, 7E, 0.8W Sat E2 Settings File - Development files
 OE: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w
@@ -4502,13 +4516,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 9b1fbe6dae798089d8d387046e287127
-Size: 118462
-Filename: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: dc4ed39e69aa5152818792e1800020d7
+Size: 118552
+Filename: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w.bb
 Description: Malimali 39E, 28.2E, 26E, 23.5E, 19.2E, 16E, 13E, 7E, 0.8W Sat E2 Settings File
 OE: enigma2-plugin-settings-malimali.39e.28e.26e.23e.19e.16e.13e.7e.0.8w
@@ -4516,13 +4530,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: eca537bea7d2dec75beec61158ad6a57
-Size: 748
-Filename: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 1a16d08ca35148d5b81dba870c1a8587
+Size: 750
+Filename: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e.bb
 Description: Malimali 13E, 16E, 19.2E Sat E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e
@@ -4530,14 +4544,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 33743ac9d8a727c89c04a047e93cc28b
-Size: 778
-Filename: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 4e671c23dbfd30a4fa7318eeacd13476
+Size: 782
+Filename: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e.bb
 Description: Malimali 13E, 16E, 19.2E Sat E2 Settings File - Development files
 OE: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e
@@ -4545,13 +4559,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: a06271614842906ba7131c2aaa4d5cb7
-Size: 73778
-Filename: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: f8a1ecb55e217752e341b06decb11e1b
+Size: 73772
+Filename: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e.bb
 Description: Malimali 13E, 16E, 19.2E Sat E2 Settings File
 OE: enigma2-plugin-settings-malimali.3e.7e.9e.13e.16e.19e
@@ -4559,13 +4573,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.9e.13e.19e-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 93394cee08519a44d445271d4f0f6f4c
-Size: 736
-Filename: enigma2-plugin-settings-malimali.9e.13e.19e-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 5081b96e7738cc0d6c03baaf4f9027bd
+Size: 742
+Filename: enigma2-plugin-settings-malimali.9e.13e.19e-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.9e.13e.19e.bb
 Description: Malimali 9E, 13E, 19.2E Sat E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-malimali.9e.13e.19e
@@ -4573,14 +4587,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.9e.13e.19e-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-malimali.9e.13e.19e (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-malimali.9e.13e.19e (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 16a0ed86057a69458d83af8ff2028dfe
-Size: 768
-Filename: enigma2-plugin-settings-malimali.9e.13e.19e-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 813cc6941eb9c611c60c5bbf533065f5
+Size: 774
+Filename: enigma2-plugin-settings-malimali.9e.13e.19e-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.9e.13e.19e.bb
 Description: Malimali 9E, 13E, 19.2E Sat E2 Settings File - Development files
 OE: enigma2-plugin-settings-malimali.9e.13e.19e
@@ -4588,13 +4602,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.9e.13e.19e
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 040e997eb6b392ef677151d9a272c380
-Size: 53470
-Filename: enigma2-plugin-settings-malimali.9e.13e.19e_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 25405e8e0a85dd6217c0b8ef91cefa6a
+Size: 53464
+Filename: enigma2-plugin-settings-malimali.9e.13e.19e_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.9e.13e.19e.bb
 Description: Malimali 9E, 13E, 19.2E Sat E2 Settings File
 OE: enigma2-plugin-settings-malimali.9e.13e.19e
@@ -4602,13 +4616,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.motor.42e.to.30w-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: f6545426f9fc7904672730e48019b8df
-Size: 740
-Filename: enigma2-plugin-settings-malimali.motor.42e.to.30w-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 09d897bcb994c8a1d91e8f5f3e6dea2f
+Size: 748
+Filename: enigma2-plugin-settings-malimali.motor.42e.to.30w-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.motor.42e.to.30w.bb
 Description: Malimali Motor 42E to 30W Sat E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-malimali.motor.42e.to.30w
@@ -4616,14 +4630,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.motor.42e.to.30w-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-malimali.motor.42e.to.30w (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-malimali.motor.42e.to.30w (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 1a740c274f097016b17d53a68e6f035b
-Size: 774
-Filename: enigma2-plugin-settings-malimali.motor.42e.to.30w-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 42a079c250d01a204225c10e2822ba73
+Size: 782
+Filename: enigma2-plugin-settings-malimali.motor.42e.to.30w-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.motor.42e.to.30w.bb
 Description: Malimali Motor 42E to 30W Sat E2 Settings File - Development files
 OE: enigma2-plugin-settings-malimali.motor.42e.to.30w
@@ -4631,13 +4645,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-malimali.motor.42e.to.30w
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 5652d9c71e081072b976e4975c913054
-Size: 187568
-Filename: enigma2-plugin-settings-malimali.motor.42e.to.30w_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 63bbab3210aa53ae976aa405f27f4e85
+Size: 187502
+Filename: enigma2-plugin-settings-malimali.motor.42e.to.30w_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-malimali.motor.42e.to.30w.bb
 Description: Malimali Motor 42E to 30W Sat E2 Settings File
 OE: enigma2-plugin-settings-malimali.motor.42e.to.30w
@@ -4645,13 +4659,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4c8dfc76a1f6a20f41d1185a0e73c2c6
-Size: 776
-Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 062ded12e28d6b48bb8c5206eb214fa7
+Size: 774
+Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e.bb
 Description: Morph883 0.8W-13E-19.2E-28.2E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e
@@ -4659,14 +4673,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f4d866dfb94cf52b31f8963550fced8d
-Size: 806
-Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 26d8ba0c7ddeb257035f0133c28a8f6b
+Size: 804
+Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e.bb
 Description: Morph883 0.8W-13E-19.2E-28.2E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e
@@ -4674,13 +4688,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0dc0b0134d27523e8092175261ddacff
-Size: 92608
-Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 36207bcc15364c67bb1bbdd0aa6ae4e5
+Size: 92774
+Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e.bb
 Description: Morph883 0.8W-13E-19.2E-28.2E E2 Settings File
 OE: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-28.2e
@@ -4688,13 +4702,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: af2965563c2a41c7a4b320de9ca0f5f0
-Size: 766
-Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: d3418b3f82a49419257cc472afcbcddd
+Size: 768
+Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e-19.2e.bb
 Description: Morph883 0.8W-13E-19.2E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-0.8w-13e-19.2e
@@ -4702,14 +4716,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-0.8w-13e-19.2e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-0.8w-13e-19.2e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c05e97c356195effb2d168ecb56c1cab
-Size: 796
-Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 2584f2b29db615d099a0a69d9a3c2ac4
+Size: 798
+Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e-19.2e.bb
 Description: Morph883 0.8W-13E-19.2E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-0.8w-13e-19.2e
@@ -4717,13 +4731,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e-19.2e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 98a25e6c5d361947aa00037f3753b9b7
-Size: 77034
-Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: d1314890ce23444799e8f9629fc58be2
+Size: 77116
+Filename: enigma2-plugin-settings-morph883-0.8w-13e-19.2e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e-19.2e.bb
 Description: Morph883 0.8W-13E-19.2E E2 Settings File
 OE: enigma2-plugin-settings-morph883-0.8w-13e-19.2e
@@ -4731,13 +4745,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6e1c3d9a40ade1ca008b91f175cbff7c
-Size: 758
-Filename: enigma2-plugin-settings-morph883-0.8w-13e-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: af5a780eb724d64cb20fcc82e13c1e60
+Size: 760
+Filename: enigma2-plugin-settings-morph883-0.8w-13e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e.bb
 Description: Morph883 0.8W-13E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-0.8w-13e
@@ -4745,14 +4759,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-0.8w-13e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-0.8w-13e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a786de6f18138162abd7eb242b82a35f
-Size: 790
-Filename: enigma2-plugin-settings-morph883-0.8w-13e-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 76458d2cf4bb0284d3042aa96f9d63d7
+Size: 788
+Filename: enigma2-plugin-settings-morph883-0.8w-13e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e.bb
 Description: Morph883 0.8W-13E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-0.8w-13e
@@ -4760,13 +4774,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-13e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6dac8075e8b31c16abf7caaff78cd826
-Size: 54796
-Filename: enigma2-plugin-settings-morph883-0.8w-13e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: fad19fc87a0f16012fef8832980798ec
+Size: 54890
+Filename: enigma2-plugin-settings-morph883-0.8w-13e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-13e.bb
 Description: Morph883 0.8W-13E E2 Settings File
 OE: enigma2-plugin-settings-morph883-0.8w-13e
@@ -4774,13 +4788,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-4.8e-13e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0f4cf5248b4d7a0ecb166df05b284e43
-Size: 770
-Filename: enigma2-plugin-settings-morph883-0.8w-4.8e-13e-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 619add35897675066d16e41f196a3c2b
+Size: 766
+Filename: enigma2-plugin-settings-morph883-0.8w-4.8e-13e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-4.8e-13e.bb
 Description: Morph883 0.8W 4.8E 13E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-0.8w-4.8e-13e
@@ -4788,14 +4802,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-4.8e-13e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-0.8w-4.8e-13e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-0.8w-4.8e-13e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f2f78614a61b189865bea71a284cd04b
-Size: 798
-Filename: enigma2-plugin-settings-morph883-0.8w-4.8e-13e-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 437bc7849635c90bb6538ea04c982285
+Size: 796
+Filename: enigma2-plugin-settings-morph883-0.8w-4.8e-13e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-4.8e-13e.bb
 Description: Morph883 0.8W 4.8E 13E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-0.8w-4.8e-13e
@@ -4803,13 +4817,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-0.8w-4.8e-13e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d46d273b28dabfcbfd4b95789f292adb
-Size: 65678
-Filename: enigma2-plugin-settings-morph883-0.8w-4.8e-13e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 930e329f9b55c94865545ae354993861
+Size: 65662
+Filename: enigma2-plugin-settings-morph883-0.8w-4.8e-13e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-0.8w-4.8e-13e.bb
 Description: Morph883 0.8W 4.8E 13E E2 Settings File
 OE: enigma2-plugin-settings-morph883-0.8w-4.8e-13e
@@ -4817,13 +4831,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a05d97342e85b999c0606cc31daca310
+MD5Sum: 367926f53501d024f5c2a526e466c533
 Size: 774
-Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e-dbg_1.0+git126+06166be-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e.bb
 Description: Morph883 13E-16E-19.2E-23.5E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e
@@ -4831,14 +4845,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f7fa1c8f93219d8636d76fcf7e2bc343
+MD5Sum: ca85883cc4b06b5b135146423ae674c4
 Size: 804
-Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e-dev_1.0+git126+06166be-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e.bb
 Description: Morph883 13E-16E-19.2E-23.5E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e
@@ -4846,13 +4860,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 802deaa825ca00614f19d4583060a49e
-Size: 86082
-Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: aba0262ade8d930c781042f1420e6a1e
+Size: 86198
+Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e.bb
 Description: Morph883 13E-16E-19.2E-23.5E E2 Settings File
 OE: enigma2-plugin-settings-morph883-13e-16e-19.2e-23.5e
@@ -4860,13 +4874,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e-19.2e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2ead89ff7c3433c861ac489e47d2e90a
+MD5Sum: 88df0054499c46959f15e3dc9f475e40
 Size: 764
-Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-dbg_1.0+git126+06166be-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e-19.2e.bb
 Description: Morph883 13E-16E-19.2E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-16e-19.2e
@@ -4874,14 +4888,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e-19.2e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-13e-16e-19.2e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-13e-16e-19.2e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7ec22827e209106b2f9886f8d57383c4
-Size: 798
-Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: ed51be1d9e4b31a59f36c4aa3621a473
+Size: 794
+Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e-19.2e.bb
 Description: Morph883 13E-16E-19.2E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-13e-16e-19.2e
@@ -4889,13 +4903,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e-19.2e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 31cc6dceecfc56cb21aa9aab5df24c45
-Size: 74384
-Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 11dc74f23dfc5efff55703452d95cc69
+Size: 74504
+Filename: enigma2-plugin-settings-morph883-13e-16e-19.2e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e-19.2e.bb
 Description: Morph883 13E-16E-19.2E E2 Settings File
 OE: enigma2-plugin-settings-morph883-13e-16e-19.2e
@@ -4903,13 +4917,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8f13ed9a21c3c239e9902d540a2a7d92
-Size: 756
-Filename: enigma2-plugin-settings-morph883-13e-16e-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 6f34c1f13b1954596f0288fbf20238ad
+Size: 758
+Filename: enigma2-plugin-settings-morph883-13e-16e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e.bb
 Description: Morph883 13E-16E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-16e
@@ -4917,14 +4931,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-13e-16e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-13e-16e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 05e9fc7535c2ee660663c306ee0bc52f
-Size: 786
-Filename: enigma2-plugin-settings-morph883-13e-16e-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: d734718efe4da184a3da637a74a9f168
+Size: 788
+Filename: enigma2-plugin-settings-morph883-13e-16e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e.bb
 Description: Morph883 13E-16E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-13e-16e
@@ -4932,13 +4946,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-16e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2805cfcf278d454633d53c69a4f84163
-Size: 52122
-Filename: enigma2-plugin-settings-morph883-13e-16e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: c736ef180e20baf8de1a209ac8fed47b
+Size: 52158
+Filename: enigma2-plugin-settings-morph883-13e-16e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-16e.bb
 Description: Morph883 13E-16E E2 Settings File
 OE: enigma2-plugin-settings-morph883-13e-16e
@@ -4946,13 +4960,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 87ce1854d32225124c4aa8e7d01ea869
-Size: 770
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 7b883ba9746e1e5101a674c03b3d4db9
+Size: 766
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-23.5e.bb
 Description: Morph883 13E-19.2E-23.5E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-19.2e-23.5e
@@ -4960,14 +4974,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-13e-19.2e-23.5e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-13e-19.2e-23.5e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d30f4864f72710132f9eade2d31a8ded
-Size: 800
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 1ca605e710b2048aae9bae14fb53672b
+Size: 796
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-23.5e.bb
 Description: Morph883 13E-19.2E-23.5E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-13e-19.2e-23.5e
@@ -4975,13 +4989,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-23.5e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e5a2bd1272efddc093156a185b941296
-Size: 71406
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 1c0f6c287b3513a994fa9acd756c13e8
+Size: 71444
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-23.5e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-23.5e.bb
 Description: Morph883 13E-19.2E-23.5E E2 Settings File
 OE: enigma2-plugin-settings-morph883-13e-19.2e-23.5e
@@ -4989,13 +5003,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-28.2e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7200e46fa7d144d3955ee86df5b9a6e6
-Size: 764
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-28.2e-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: f9f7beee617205a1f2db512aaf0b7a63
+Size: 766
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-28.2e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-28.2e.bb
 Description: Morph883 13E-19.2E-28.2E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-19.2e-28.2e
@@ -5003,14 +5017,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-28.2e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-13e-19.2e-28.2e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-13e-19.2e-28.2e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a4b7a62efebd1e226eae533c062f901a
-Size: 794
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-28.2e-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 394d24ee65733f83335d12091cd601f5
+Size: 796
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-28.2e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-28.2e.bb
 Description: Morph883 13E-19.2E-28.2E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-13e-19.2e-28.2e
@@ -5018,13 +5032,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-28.2e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 697a82a9eaae2468dbe29855686b0329
-Size: 74946
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-28.2e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 44d79b8452779408bdf8f62de181efdc
+Size: 75072
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-28.2e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-28.2e.bb
 Description: Morph883 13E-19.2E-28.2E E2 Settings File
 OE: enigma2-plugin-settings-morph883-13e-19.2e-28.2e
@@ -5032,13 +5046,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-42e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1d99c2be557ec5c689684d4400edc253
-Size: 766
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-42e-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: bfd91fbc1487df402c657a360f478441
+Size: 768
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-42e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-42e.bb
 Description: Morph883 13E-19.2E-42E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-19.2e-42e
@@ -5046,14 +5060,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-42e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-13e-19.2e-42e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-13e-19.2e-42e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0b0e7e3bf00ac109d23bcc7c9aa217d8
-Size: 798
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-42e-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 9ae6e32937393cd88f628ca8c0ff1945
+Size: 794
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-42e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-42e.bb
 Description: Morph883 13E-19.2E-42E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-13e-19.2e-42e
@@ -5061,13 +5075,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-42e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 766140e9f5debd9bc15bac58cb4d3293
-Size: 74464
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-42e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 6ca245b24fcfeac534e4a2e526ceb3f1
+Size: 74510
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-42e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e-42e.bb
 Description: Morph883 13E-19.2E-42E E2 Settings File
 OE: enigma2-plugin-settings-morph883-13e-19.2e-42e
@@ -5075,13 +5089,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 15abd7d0eb8556a4b99a8cca55c8a3aa
-Size: 760
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 027b82789ad9efc31258a3c34871f0af
+Size: 758
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e.bb
 Description: Morph883 13E-19.2E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-19.2e
@@ -5089,14 +5103,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-13e-19.2e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-13e-19.2e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0398043d253b1600360d9a91902ea423
-Size: 790
-Filename: enigma2-plugin-settings-morph883-13e-19.2e-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: c855ecaee571cfd0eb30dca7c2db7842
+Size: 788
+Filename: enigma2-plugin-settings-morph883-13e-19.2e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e.bb
 Description: Morph883 13E-19.2E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-13e-19.2e
@@ -5104,13 +5118,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-19.2e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 26efb71e533fafe04892808a753ef636
+MD5Sum: 7870967b80261e8fb1cbb26ed6747c88
 Size: 59338
-Filename: enigma2-plugin-settings-morph883-13e-19.2e_1.0+git126+06166be-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-19.2e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-19.2e.bb
 Description: Morph883 13E-19.2E E2 Settings File
 OE: enigma2-plugin-settings-morph883-13e-19.2e
@@ -5118,13 +5132,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-23.5e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2fe405a1150cd66c6deae2662a98fe5b
-Size: 760
-Filename: enigma2-plugin-settings-morph883-13e-23.5e-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 765a410b8c6e1cb1656a8ce929697cc2
+Size: 762
+Filename: enigma2-plugin-settings-morph883-13e-23.5e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-23.5e.bb
 Description: Morph883 13E-23.5E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-23.5e
@@ -5132,14 +5146,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-23.5e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-13e-23.5e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-13e-23.5e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e10765843abae64222dd70f1cdfd4ed4
+MD5Sum: 8dfdf307ab753cfd104842899fdcd965
 Size: 792
-Filename: enigma2-plugin-settings-morph883-13e-23.5e-dev_1.0+git126+06166be-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-23.5e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-23.5e.bb
 Description: Morph883 13E-23.5E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-13e-23.5e
@@ -5147,13 +5161,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-23.5e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: da2d8daf573745375194cc36233ba18f
-Size: 49246
-Filename: enigma2-plugin-settings-morph883-13e-23.5e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: e8c609c1289d5b59719ebf145d786db8
+Size: 49282
+Filename: enigma2-plugin-settings-morph883-13e-23.5e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-23.5e.bb
 Description: Morph883 13E-23.5E E2 Settings File
 OE: enigma2-plugin-settings-morph883-13e-23.5e
@@ -5161,13 +5175,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-28.2e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: abbed2b33ebb672e65cf9079a117b2a2
-Size: 760
-Filename: enigma2-plugin-settings-morph883-13e-28.2e-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 270b198829373aca822a54cc99466d5b
+Size: 756
+Filename: enigma2-plugin-settings-morph883-13e-28.2e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-28.2e.bb
 Description: Morph883 13E-28.2E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-28.2e
@@ -5175,14 +5189,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-28.2e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-13e-28.2e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-13e-28.2e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8260703b1591adf19027c5370bc2ac80
-Size: 790
-Filename: enigma2-plugin-settings-morph883-13e-28.2e-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 5ae940f68af8040be76457664d2e7585
+Size: 794
+Filename: enigma2-plugin-settings-morph883-13e-28.2e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-28.2e.bb
 Description: Morph883 13E-28.2E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-13e-28.2e
@@ -5190,13 +5204,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-28.2e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1732d4132a77b247cb591d48299eb0f2
-Size: 52614
-Filename: enigma2-plugin-settings-morph883-13e-28.2e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 2e419143edd8b6bec4dfc33ae7578617
+Size: 52794
+Filename: enigma2-plugin-settings-morph883-13e-28.2e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-28.2e.bb
 Description: Morph883 13E-28.2E E2 Settings File
 OE: enigma2-plugin-settings-morph883-13e-28.2e
@@ -5204,13 +5218,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-42e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b2df17d6a625e8495c320a7be522f6ca
-Size: 756
-Filename: enigma2-plugin-settings-morph883-13e-42e-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: b2214d3a8e5d75eda46059c2d4469dbd
+Size: 754
+Filename: enigma2-plugin-settings-morph883-13e-42e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-42e.bb
 Description: Morph883 13E-42E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-13e-42e
@@ -5218,14 +5232,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-42e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-13e-42e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-13e-42e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: fbdb26381fbaf1848a019fce9b390bd1
-Size: 788
-Filename: enigma2-plugin-settings-morph883-13e-42e-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 05e1ffdde94c5abb1334c24a7bee66cb
+Size: 786
+Filename: enigma2-plugin-settings-morph883-13e-42e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-42e.bb
 Description: Morph883 13E-42E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-13e-42e
@@ -5233,13 +5247,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-42e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: aba92d1c3e45cf991bea58482b21b0db
-Size: 52172
-Filename: enigma2-plugin-settings-morph883-13e-42e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: ab3ab6fd30a04e11a0ce95e901c1dffd
+Size: 52186
+Filename: enigma2-plugin-settings-morph883-13e-42e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e-42e.bb
 Description: Morph883 13E-42E E2 Settings File
 OE: enigma2-plugin-settings-morph883-13e-42e
@@ -5247,13 +5261,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 509fde53d6c714b62056d9cfc8443217
+MD5Sum: 2d04e59718c94b29fc1bc654f28734f3
 Size: 750
-Filename: enigma2-plugin-settings-morph883-13e-dbg_1.0+git126+06166be-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-13e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e.bb
 Description: Morph883 13E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-13e
@@ -5261,14 +5275,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-13e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-13e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 593bfad9ff2187a61c55979db7c8a7ee
-Size: 780
-Filename: enigma2-plugin-settings-morph883-13e-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 9f872daa241fb6e88bf65991b09c0b06
+Size: 784
+Filename: enigma2-plugin-settings-morph883-13e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e.bb
 Description: Morph883 13E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-13e
@@ -5276,13 +5290,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-13e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: aa86ed85871df76cafd856c5fb2bab0c
-Size: 36968
-Filename: enigma2-plugin-settings-morph883-13e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 3a8d402b51cc2e3d4b8ef3a9b6e5c145
+Size: 37016
+Filename: enigma2-plugin-settings-morph883-13e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-13e.bb
 Description: Morph883 13E E2 Settings File
 OE: enigma2-plugin-settings-morph883-13e
@@ -5290,13 +5304,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-30w-13e-19.2e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 45ee090220d865de1d5f2f805a721c58
-Size: 766
-Filename: enigma2-plugin-settings-morph883-30w-13e-19.2e-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: ac747399c038c09f3b6f4203c4f6e2ef
+Size: 768
+Filename: enigma2-plugin-settings-morph883-30w-13e-19.2e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-30w-13e-19.2e.bb
 Description: Morph883 30W-13E-19.2E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-30w-13e-19.2e
@@ -5304,14 +5318,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-30w-13e-19.2e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-30w-13e-19.2e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-30w-13e-19.2e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2112c6c53a3de1ed4740e9549c00c963
+MD5Sum: f50921c4088ee4d7671a8c82cef6ac36
 Size: 798
-Filename: enigma2-plugin-settings-morph883-30w-13e-19.2e-dev_1.0+git126+06166be-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-30w-13e-19.2e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-30w-13e-19.2e.bb
 Description: Morph883 30W-13E-19.2E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-30w-13e-19.2e
@@ -5319,13 +5333,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-30w-13e-19.2e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1fe8051cc68a40cf44668756423e00d9
-Size: 70158
-Filename: enigma2-plugin-settings-morph883-30w-13e-19.2e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 356471bf505d7d4600ca5cd4d21c7fd3
+Size: 70214
+Filename: enigma2-plugin-settings-morph883-30w-13e-19.2e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-30w-13e-19.2e.bb
 Description: Morph883 30W-13E-19.2E E2 Settings File
 OE: enigma2-plugin-settings-morph883-30w-13e-19.2e
@@ -5333,13 +5347,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-30w-13e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 722de760714bc2547192d7feffce4d24
-Size: 760
-Filename: enigma2-plugin-settings-morph883-30w-13e-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 76ec5e2f28c9decfcff5ffc94be477e9
+Size: 756
+Filename: enigma2-plugin-settings-morph883-30w-13e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-30w-13e.bb
 Description: Morph883 30W-13E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-30w-13e
@@ -5347,14 +5361,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-30w-13e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-30w-13e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-30w-13e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 339fb8ba399e5d61bdb395925accc3c6
-Size: 790
-Filename: enigma2-plugin-settings-morph883-30w-13e-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 07ab478899c1d1cf59f34d1f1b76d472
+Size: 788
+Filename: enigma2-plugin-settings-morph883-30w-13e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-30w-13e.bb
 Description: Morph883 30W-13E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-30w-13e
@@ -5362,13 +5376,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-30w-13e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9d294bec367641502155ce8a7abcb8db
-Size: 47974
-Filename: enigma2-plugin-settings-morph883-30w-13e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 10aca289a50d125af6594785d2b81a8d
+Size: 48014
+Filename: enigma2-plugin-settings-morph883-30w-13e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-30w-13e.bb
 Description: Morph883 30W-13E E2 Settings File
 OE: enigma2-plugin-settings-morph883-30w-13e
@@ -5376,13 +5390,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-4.8e-13e-19.2e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 12ca38ef4b99d91eda26cea8f1e49829
-Size: 768
-Filename: enigma2-plugin-settings-morph883-4.8e-13e-19.2e-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 344a2cd11542dd29653ea4c2e6c0b657
+Size: 770
+Filename: enigma2-plugin-settings-morph883-4.8e-13e-19.2e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-4.8e-13e-19.2e.bb
 Description: Morph883 4.8E-13E-19.2E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-4.8e-13e-19.2e
@@ -5390,14 +5404,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-4.8e-13e-19.2e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-4.8e-13e-19.2e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-4.8e-13e-19.2e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b295f547c5fa43694344c3c1e91b27a7
-Size: 798
-Filename: enigma2-plugin-settings-morph883-4.8e-13e-19.2e-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 741e47f438d4e3cc9b7999e75bdbdb6e
+Size: 800
+Filename: enigma2-plugin-settings-morph883-4.8e-13e-19.2e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-4.8e-13e-19.2e.bb
 Description: Morph883 4.8E-13E-19.2E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-4.8e-13e-19.2e
@@ -5405,13 +5419,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-4.8e-13e-19.2e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 19e5db19fab48baf07d14547bb3fe10a
-Size: 70514
-Filename: enigma2-plugin-settings-morph883-4.8e-13e-19.2e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: a20c0379d4f6ad2423f0587cfed50354
+Size: 70518
+Filename: enigma2-plugin-settings-morph883-4.8e-13e-19.2e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-4.8e-13e-19.2e.bb
 Description: Morph883 4.8E-13E-19.2E E2 Settings File
 OE: enigma2-plugin-settings-morph883-4.8e-13e-19.2e
@@ -5419,13 +5433,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-4.8e-13e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 16ed0c1aabe892be0e8551a8931ae1c6
-Size: 758
-Filename: enigma2-plugin-settings-morph883-4.8e-13e-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 8c11dd21c2263e0d0aff5c9a96101479
+Size: 762
+Filename: enigma2-plugin-settings-morph883-4.8e-13e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-4.8e-13e.bb
 Description: Morph883 4.8E 13E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-4.8e-13e
@@ -5433,14 +5447,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-4.8e-13e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-4.8e-13e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-4.8e-13e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2a5ac1a47c2031f87d1ac79f3370ebcd
-Size: 788
-Filename: enigma2-plugin-settings-morph883-4.8e-13e-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 04ecc147d318436795eaa8de35816038
+Size: 790
+Filename: enigma2-plugin-settings-morph883-4.8e-13e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-4.8e-13e.bb
 Description: Morph883 4.8E 13E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-4.8e-13e
@@ -5448,13 +5462,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-4.8e-13e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d01ccc3e5c6ad8c991f6fb21774e5638
-Size: 48174
-Filename: enigma2-plugin-settings-morph883-4.8e-13e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: fd9e4d7ef32fd7e1b37d146a4388cb82
+Size: 48222
+Filename: enigma2-plugin-settings-morph883-4.8e-13e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-4.8e-13e.bb
 Description: Morph883 4.8E 13E E2 Settings File
 OE: enigma2-plugin-settings-morph883-4.8e-13e
@@ -5462,13 +5476,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-9e-13e-19.2e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4cd1cf45a028bedb19c16b8394c4be31
+MD5Sum: ceb0eb165a8fcb44402be7a87ede3d09
 Size: 762
-Filename: enigma2-plugin-settings-morph883-9e-13e-19.2e-dbg_1.0+git126+06166be-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-9e-13e-19.2e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-9e-13e-19.2e.bb
 Description: Morph883 9E-13E-19.2E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-9e-13e-19.2e
@@ -5476,14 +5490,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-9e-13e-19.2e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-9e-13e-19.2e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-9e-13e-19.2e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7b793b53c6ec1b42e147ac47961fd8e4
+MD5Sum: bcb7c2e0d87ca9eb2fe41cd7f741c341
 Size: 792
-Filename: enigma2-plugin-settings-morph883-9e-13e-19.2e-dev_1.0+git126+06166be-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-9e-13e-19.2e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-9e-13e-19.2e.bb
 Description: Morph883 9E-13E-19.2E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-9e-13e-19.2e
@@ -5491,13 +5505,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-9e-13e-19.2e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7b91b1f0740e6e59bc86b6affc357130
-Size: 71810
-Filename: enigma2-plugin-settings-morph883-9e-13e-19.2e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: a0f01560c97205a2d3635f87208f9857
+Size: 71930
+Filename: enigma2-plugin-settings-morph883-9e-13e-19.2e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-9e-13e-19.2e.bb
 Description: Morph883 9E-13E-19.2E E2 Settings File
 OE: enigma2-plugin-settings-morph883-9e-13e-19.2e
@@ -5505,13 +5519,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-9e-13e-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4e5ee5edc7651d26b5d39c031cd3baf7
+MD5Sum: 2b268159e885bfd4b5eab0b37508d36e
 Size: 758
-Filename: enigma2-plugin-settings-morph883-9e-13e-dbg_1.0+git126+06166be-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-9e-13e-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-9e-13e.bb
 Description: Morph883 9E-13E E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-9e-13e
@@ -5519,14 +5533,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-9e-13e-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-9e-13e (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-9e-13e (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3504eea6c7a72d6b99831c91f25f53ae
+MD5Sum: 72ed5ed7373242d7de5afd24b928f60b
 Size: 788
-Filename: enigma2-plugin-settings-morph883-9e-13e-dev_1.0+git126+06166be-r0_all.ipk
+Filename: enigma2-plugin-settings-morph883-9e-13e-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-9e-13e.bb
 Description: Morph883 9E-13E E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-9e-13e
@@ -5534,13 +5548,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-9e-13e
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 15c0b8679d1da4ca297826c214c2b506
-Size: 49616
-Filename: enigma2-plugin-settings-morph883-9e-13e_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 19a69f419c54bb578119ace13405e6b8
+Size: 49762
+Filename: enigma2-plugin-settings-morph883-9e-13e_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-9e-13e.bb
 Description: Morph883 9E-13E E2 Settings File
 OE: enigma2-plugin-settings-morph883-9e-13e
@@ -5548,13 +5562,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-motor-dbg
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1511a55fd848d23925a04df8f1483b6a
-Size: 756
-Filename: enigma2-plugin-settings-morph883-motor-dbg_1.0+git126+06166be-r0_all.ipk
+MD5Sum: cc68376ea183411f9ac9243800d97c82
+Size: 750
+Filename: enigma2-plugin-settings-morph883-motor-dbg_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-motor.bb
 Description: Morph883 Motor E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-morph883-motor
@@ -5562,14 +5576,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-motor-dev
-Version: 1.0+git126+06166be-r0
-Depends: enigma2-plugin-settings-morph883-motor (= 1.0+git126+06166be-r0)
+Version: 1.0+git127+5ba089a-r0
+Depends: enigma2-plugin-settings-morph883-motor (= 1.0+git127+5ba089a-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 233bf249417ef7da0488fa18b5b457cf
-Size: 784
-Filename: enigma2-plugin-settings-morph883-motor-dev_1.0+git126+06166be-r0_all.ipk
+MD5Sum: d53f974e454dcf0717c4ef9b1a25dfd9
+Size: 780
+Filename: enigma2-plugin-settings-morph883-motor-dev_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-motor.bb
 Description: Morph883 Motor E2 Settings File - Development files
 OE: enigma2-plugin-settings-morph883-motor
@@ -5577,13 +5591,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-morph883-motor
-Version: 1.0+git126+06166be-r0
+Version: 1.0+git127+5ba089a-r0
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7a019f36917eab0c2585d1f2e1ee3ad2
-Size: 319698
-Filename: enigma2-plugin-settings-morph883-motor_1.0+git126+06166be-r0_all.ipk
+MD5Sum: 69172aa6938ecf5ced9618eb19fe4248
+Size: 320136
+Filename: enigma2-plugin-settings-morph883-motor_1.0+git127+5ba089a-r0_all.ipk
 Source: enigma2-plugin-settings-morph883-motor.bb
 Description: Morph883 Motor E2 Settings File
 OE: enigma2-plugin-settings-morph883-motor
@@ -5591,13 +5605,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: b3466c437c8f17d8ca7a8503136e0052
-Size: 732
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: a8c5421156e32be21566dbab86252d76
+Size: 738
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.bb
 Description: Vhannibal Dual Feeds E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-vhannibal.dual.feeds
@@ -5605,14 +5619,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.dual.feeds (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.dual.feeds (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 5dc10ccdf56ce7b981bc68461596545c
-Size: 768
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 7106b7cdf1cdff4f15e88ffe36f41ad4
+Size: 770
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.bb
 Description: Vhannibal Dual Feeds E2 Settings File - Development files
 OE: enigma2-plugin-settings-vhannibal.dual.feeds
@@ -5620,13 +5634,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 348dee2f398261b00faeb9f2d36d75fa
-Size: 740
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 35fbd44fa75f148ab11fedc0378481c8
+Size: 748
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia.bb
 Description: Vhannibal Dual Feeds E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia
@@ -5634,14 +5648,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 6b9c9b16da954cadff0847efcd890b2a
-Size: 774
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: ee89fadc5a6eeae62a9d7ad5ac60c2b6
+Size: 782
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia.bb
 Description: Vhannibal Dual Feeds E2 Settings File - Development files
 OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia
@@ -5649,13 +5663,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: a0c2caf4beee50c5d6fd881b24c3bae8
-Size: 112128
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: ab4e55e28e50780e07097ea6c3851249
+Size: 112050
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia.bb
 Description: Vhannibal Dual Feeds E2 Settings File
 OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.italia
@@ -5663,13 +5677,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 775f6a6da6dbfdcec0f98b2ffd802f73
-Size: 742
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 920becfd64ec4a86e6fe2a07426e8b3b
+Size: 746
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano.bb
 Description: Vhannibal Dual Feeds E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano
@@ -5677,14 +5691,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: d9bb025e3c9a2f7e7e8b7f0fc0ae5459
-Size: 774
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: ac1a05bac145228503dbdce2f0c5bd10
+Size: 780
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano.bb
 Description: Vhannibal Dual Feeds E2 Settings File - Development files
 OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano
@@ -5692,13 +5706,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 445945fdfb8626d8f8776fcf18ef0c92
-Size: 115474
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: b4aca645c536622837c916acf42fce4a
+Size: 115424
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano.bb
 Description: Vhannibal Dual Feeds E2 Settings File
 OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.milano
@@ -5706,13 +5720,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 89e2a5a4d13a39d2e0b3be10d6b7ef58
-Size: 744
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 1e3d9531db291a2bb9fa5210e54af71c
+Size: 748
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli.bb
 Description: Vhannibal Dual Feeds E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli
@@ -5720,14 +5734,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 5bcfa60cbfe4d0fd652d9e45fa2df745
-Size: 776
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 52007c8cae8dd50dd01911b8092e9c97
+Size: 782
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli.bb
 Description: Vhannibal Dual Feeds E2 Settings File - Development files
 OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli
@@ -5735,13 +5749,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 75c910e9109fb57760fb3c88c1d0087e
-Size: 63970
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 6a0c1cba552d6730ad0070a0d21dc5f6
+Size: 63964
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli.bb
 Description: Vhannibal Dual Feeds E2 Settings File
 OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.napoli
@@ -5749,13 +5763,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 381aaf5ba5aa067a97400696ad0e780a
-Size: 742
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 741db69aa38133681306f8059044b84a
+Size: 746
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma.bb
 Description: Vhannibal Dual Feeds E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma
@@ -5763,14 +5777,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: d8817095be281fdd2c7bae298cc05558
-Size: 776
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: b78523db758298c79b17b017cde61ea0
+Size: 780
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma.bb
 Description: Vhannibal Dual Feeds E2 Settings File - Development files
 OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma
@@ -5778,13 +5792,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: a48d7e3c0992e3951ba456939b95939c
-Size: 63976
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 5999f5afc3ca8e149ccb5f2b4ac7ce3a
+Size: 63956
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma.bb
 Description: Vhannibal Dual Feeds E2 Settings File
 OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.roma
@@ -5792,13 +5806,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: de3171d223408224a53b1edee1810b77
+MD5Sum: 42e45b687b0d7ba7677db609f8225562
 Size: 742
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino-dbg_1.0+git4232+edc00a6-r6_all.ipk
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino.bb
 Description: Vhannibal Dual Feeds E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino
@@ -5806,14 +5820,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 9f024dfb1e4445cada80d782bcabbce2
-Size: 776
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 837ab7fec2550ef9d73571fe8892a73e
+Size: 782
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino.bb
 Description: Vhannibal Dual Feeds E2 Settings File - Development files
 OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino
@@ -5821,13 +5835,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: dfc83a5a72053ca4f658ec09e33d9ad3
-Size: 105434
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: a024ca646a81b131a110fe561fa0c5d5
+Size: 105420
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino.bb
 Description: Vhannibal Dual Feeds E2 Settings File
 OE: enigma2-plugin-settings-vhannibal.dual.feeds.and.dtt.torino
@@ -5835,13 +5849,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.dual.feeds
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 540d99a4bde0b0bbab19e11e83ce8a7d
-Size: 107480
-Filename: enigma2-plugin-settings-vhannibal.dual.feeds_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: e796a5f7ce71e6780e44c97e7098197f
+Size: 108742
+Filename: enigma2-plugin-settings-vhannibal.dual.feeds_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.dual.feeds.bb
 Description: Vhannibal Dual Feeds E2 Settings File
 OE: enigma2-plugin-settings-vhannibal.dual.feeds
@@ -5849,13 +5863,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: a386ef5b32561f778bc87b899ea3f740
+MD5Sum: c2064f3db0fae2e8b067e037d3809c97
 Size: 738
-Filename: enigma2-plugin-settings-vhannibal.hotbird-dbg_1.0+git4232+edc00a6-r6_all.ipk
+Filename: enigma2-plugin-settings-vhannibal.hotbird-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.bb
 Description: Vhannibal E2 Settings File For HotBird - Debugging files
 OE: enigma2-plugin-settings-vhannibal.hotbird
@@ -5863,14 +5877,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.hotbird (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.hotbird (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 243e4f4432481e12eec836cea9680b35
-Size: 770
-Filename: enigma2-plugin-settings-vhannibal.hotbird-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: f5e0ace7d38864c34515177ed96be38e
+Size: 772
+Filename: enigma2-plugin-settings-vhannibal.hotbird-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.bb
 Description: Vhannibal E2 Settings File For HotBird - Development files
 OE: enigma2-plugin-settings-vhannibal.hotbird
@@ -5878,13 +5892,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 17ecff80428afbee3f5365a2b304b6ef
-Size: 742
-Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: b0dbd0dddf0a299d5b0fc6a1c2615193
+Size: 750
+Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia.bb
 Description: Vhannibal E2 Settings File For HotBird - Debugging files
 OE: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia
@@ -5892,14 +5906,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: d6c465da9e1083f9aada77df5052af99
-Size: 776
-Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 0419b49120adb8c410f11c1a0df8d13a
+Size: 784
+Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia.bb
 Description: Vhannibal E2 Settings File For HotBird - Development files
 OE: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia
@@ -5907,13 +5921,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: c403618a603eab58232a83207e28be79
-Size: 97654
-Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 9ff288ad25f701534f350c86b76e550f
+Size: 97656
+Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia.bb
 Description: Vhannibal E2 Settings File For HotBird
 OE: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.italia
@@ -5921,13 +5935,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: a8d57b455370ecf24e82a6b3d006b17b
-Size: 742
-Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: d39fbac5a2f82da4a1faa4f230ca08da
+Size: 750
+Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano.bb
 Description: Vhannibal E2 Settings File For HotBird - Debugging files
 OE: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano
@@ -5935,14 +5949,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 53905ae83f4955d881bcf8b86c35766d
-Size: 776
-Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: bb3ea1917b8a394f912b8a2c6feeada0
+Size: 782
+Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano.bb
 Description: Vhannibal E2 Settings File For HotBird - Development files
 OE: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano
@@ -5950,13 +5964,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: cf8c82f6cc402f89d79efc1a96d85391
-Size: 99162
-Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 2c0e98f96fb7bf3d5c792f976afbe1e3
+Size: 99172
+Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano.bb
 Description: Vhannibal E2 Settings File For HotBird
 OE: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.milano
@@ -5964,13 +5978,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 15a251973c5ec6c59a0a41b4ea077c8b
-Size: 746
-Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 5075fe1283a049f4408f8601b4fde571
+Size: 748
+Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli.bb
 Description: Vhannibal E2 Settings File For HotBird - Debugging files
 OE: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli
@@ -5978,14 +5992,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: fafbf36b32217b23a55ef07b5cff569c
-Size: 780
-Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 5dbed464f4615fb0fb9838c50169c2be
+Size: 782
+Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli.bb
 Description: Vhannibal E2 Settings File For HotBird - Development files
 OE: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli
@@ -5993,13 +6007,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: b317d2987260abc2a38be6afffb38ce2
-Size: 43878
-Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 582e5ebab2b912685843585690be6759
+Size: 43882
+Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli.bb
 Description: Vhannibal E2 Settings File For HotBird
 OE: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.napoli
@@ -6007,13 +6021,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: c17aa129c7e106b610285e1493e0d0f2
-Size: 744
-Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: a4464b24bbdbd88f90be6d8471682323
+Size: 746
+Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma.bb
 Description: Vhannibal E2 Settings File For HotBird - Debugging files
 OE: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma
@@ -6021,14 +6035,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 8c44c04010ef993b61e734f1794c296d
-Size: 776
-Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: d0b22873990ce214d434fc625017d444
+Size: 780
+Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma.bb
 Description: Vhannibal E2 Settings File For HotBird - Development files
 OE: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma
@@ -6036,13 +6050,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: c029727810e048a122b2bd48d39e2e3a
-Size: 43862
-Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 81d20194571067de557ae5678473ef9b
+Size: 43860
+Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma.bb
 Description: Vhannibal E2 Settings File For HotBird
 OE: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.roma
@@ -6050,13 +6064,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: c9f2b159e8eb65f2ec50358acaf5d1a9
-Size: 748
-Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 4280bc283203e1993c3df3dc2b34762e
+Size: 750
+Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino.bb
 Description: Vhannibal E2 Settings File For HotBird - Debugging files
 OE: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino
@@ -6064,14 +6078,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 6ac214ba4808266b124445a2f18ad490
-Size: 782
-Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 3f693ce7a0b1505175ecd8fe6f771d29
+Size: 784
+Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino.bb
 Description: Vhannibal E2 Settings File For HotBird - Development files
 OE: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino
@@ -6079,13 +6093,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 4d64f666ff7d8491cd9d43770dec9427
-Size: 91040
-Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 9cbebf15b89bcd014fef607cff8c2ba3
+Size: 91124
+Filename: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino.bb
 Description: Vhannibal E2 Settings File For HotBird
 OE: enigma2-plugin-settings-vhannibal.hotbird.and.dtt.torino
@@ -6093,13 +6107,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.hotbird
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 133370736119aedb0d44f1dadd864a8e
-Size: 92576
-Filename: enigma2-plugin-settings-vhannibal.hotbird_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 63a95409c9df7b628355781e6158f270
+Size: 93384
+Filename: enigma2-plugin-settings-vhannibal.hotbird_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.hotbird.bb
 Description: Vhannibal E2 Settings File For HotBird
 OE: enigma2-plugin-settings-vhannibal.hotbird
@@ -6107,13 +6121,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 106e41af2baf1f1fb86aecc453ae965e
-Size: 720
-Filename: enigma2-plugin-settings-vhannibal.motor-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 90b7a744fe016a8c5c5e248ee0bffab2
+Size: 730
+Filename: enigma2-plugin-settings-vhannibal.motor-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.bb
 Description: Vhannibal Motor E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-vhannibal.motor
@@ -6121,14 +6135,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.motor (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.motor (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 2c27b20fa35c4cc54dd6b45eed40dd32
-Size: 758
-Filename: enigma2-plugin-settings-vhannibal.motor-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 5e4209637088479446414418962a87c8
+Size: 764
+Filename: enigma2-plugin-settings-vhannibal.motor-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.bb
 Description: Vhannibal Motor E2 Settings File - Development files
 OE: enigma2-plugin-settings-vhannibal.motor
@@ -6136,13 +6150,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 4562d54314ae4f65194a514b1f8b2909
-Size: 738
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 93291c9892fb88f3442dbaeff0f5a15d
+Size: 740
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli.bb
 Description: Vhannibal Motor E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli
@@ -6150,14 +6164,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: ede6c1f5ceba9c2e3bebba6e626be824
-Size: 770
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: fb26c51e90e98b8e7be0616414016a11
+Size: 774
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli.bb
 Description: Vhannibal Motor E2 Settings File - Development files
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli
@@ -6165,13 +6179,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: ca3515e997cc6f086770a974bdfcbbdb
-Size: 232916
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 07eeb011aa0d7c8b52b0a3ca0049b7bc
+Size: 232768
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli.bb
 Description: Vhannibal Motor E2 Settings File
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.forli
@@ -6179,13 +6193,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: ab4ec5b2e78655981a7802582648c312
-Size: 734
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: eef1e22d7a87f0f04053040602c03398
+Size: 740
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia.bb
 Description: Vhannibal Motor E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia
@@ -6193,14 +6207,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: a59deb25a78d9abde7cc75d01c616d6b
-Size: 772
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: f2d1fed699e81dac31b41e8560808b7c
+Size: 774
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia.bb
 Description: Vhannibal Motor E2 Settings File - Development files
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia
@@ -6208,13 +6222,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 342ae6704a9bac260246c76921f944fb
-Size: 227648
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 6eb502771e685705d9c0f8fe4ff5b073
+Size: 228328
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia.bb
 Description: Vhannibal Motor E2 Settings File
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.italia
@@ -6222,13 +6236,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 6f60c78cd091a8ba43df93d321cc311d
-Size: 736
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 28bb579ceda4164d087c87298af2a798
+Size: 740
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano.bb
 Description: Vhannibal Motor E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano
@@ -6236,14 +6250,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: a6f64b34b16e50439ed5c18c987907d1
-Size: 772
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: b9ea7c3837227c49b09ebcb951d9173b
+Size: 774
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano.bb
 Description: Vhannibal Motor E2 Settings File - Development files
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano
@@ -6251,13 +6265,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 383d05124ba300b2de55b2a2571f27c0
+MD5Sum: 32ac743de7601edd890d07198152d4af
 Size: 230488
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano_1.0+git4232+edc00a6-r6_all.ipk
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano.bb
 Description: Vhannibal Motor E2 Settings File
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.milano
@@ -6265,13 +6279,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 6028b81ee3fa4acb6b710782509e76b9
-Size: 732
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: a5227db9bfd16274d9ab1abdc2eb5582
+Size: 740
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli.bb
 Description: Vhannibal Motor E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli
@@ -6279,14 +6293,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: a52ec35baab060a79a5c9a2c64ea6588
-Size: 766
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 0fb3eea59e52eae245bda55b448d3b70
+Size: 774
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli.bb
 Description: Vhannibal Motor E2 Settings File - Development files
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli
@@ -6294,13 +6308,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 32a121837f4edfe6ac61859cec7a096d
-Size: 224966
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 8a7823278d14f65864e051741b52a0db
+Size: 224870
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli.bb
 Description: Vhannibal Motor E2 Settings File
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.napoli
@@ -6308,13 +6322,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 35d17360fadd3365e11c287e897a2676
-Size: 738
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 07750ebf612b4ecfb1ce470b7c2c8f8e
+Size: 736
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma.bb
 Description: Vhannibal Motor E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma
@@ -6322,14 +6336,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: a5b6034a86c895aec2084c4f325174fd
-Size: 770
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 8218b456d398c9ebf59bd4b72ee92c57
+Size: 768
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma.bb
 Description: Vhannibal Motor E2 Settings File - Development files
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma
@@ -6337,13 +6351,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 41587f897f3b1a8e4d34c5c369f40a77
-Size: 224656
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: cb937b88dc79a93d9da61f9cd4074ae8
+Size: 224564
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma.bb
 Description: Vhannibal Motor E2 Settings File
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.roma
@@ -6351,13 +6365,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: ae45f839856d973c72269ec26212d2a8
+MD5Sum: 47ef714cbfed86fe9f2ba5a0fd447588
 Size: 738
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino-dbg_1.0+git4232+edc00a6-r6_all.ipk
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino.bb
 Description: Vhannibal Motor E2 Settings File - Debugging files
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino
@@ -6365,14 +6379,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 4eb57bb9b5cdcade503856e03871497b
-Size: 768
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 5e74d5fd67e0473afe9e57f755d65963
+Size: 774
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino.bb
 Description: Vhannibal Motor E2 Settings File - Development files
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino
@@ -6380,13 +6394,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: b70ffc7e1e2a21851fcc9f481c510036
-Size: 224028
-Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: f38b26e82249182b5c6520de46189267
+Size: 223984
+Filename: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino.bb
 Description: Vhannibal Motor E2 Settings File
 OE: enigma2-plugin-settings-vhannibal.motor.and.dtt.torino
@@ -6394,13 +6408,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.motor
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 7d9ad31cd56a35bda746c88d8ecab740
-Size: 226906
-Filename: enigma2-plugin-settings-vhannibal.motor_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: d931c22e8d943c499f3aab3e9082c541
+Size: 228010
+Filename: enigma2-plugin-settings-vhannibal.motor_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.motor.bb
 Description: Vhannibal Motor E2 Settings File
 OE: enigma2-plugin-settings-vhannibal.motor
@@ -6408,13 +6422,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 7eb3e88ea1ee16889cd292a05305db9a
-Size: 754
-Filename: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: c23700fc978bb7a421ddc6f660414d2a
+Size: 756
+Filename: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e.bb
 Description: Vhannibal E2 Settings File For 13e,19e, 23e & 28e - Debugging files
 OE: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e
@@ -6422,14 +6436,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 9814035555835ae1770e5865cdc5b82d
-Size: 788
-Filename: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 072cb80e792d956bfa949f6796edabfa
+Size: 790
+Filename: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e.bb
 Description: Vhannibal E2 Settings File For 13e,19e, 23e & 28e - Development files
 OE: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e
@@ -6437,13 +6451,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 2b67aac094db1e262e8b3ae36513279f
-Size: 127078
-Filename: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 06f8b996eadfd42738240155fd06e5d7
+Size: 127456
+Filename: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e.bb
 Description: Vhannibal E2 Settings File For 13e,19e, 23e & 28e
 OE: enigma2-plugin-settings-vhannibal.quad.13e.19e.23e.28e
@@ -6451,13 +6465,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: ed6bdb02acbd7cdbc2f50a836ce3aac4
-Size: 752
-Filename: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 69e3d3918db6a639f0a4d91eba6254b3
+Size: 756
+Filename: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e.bb
 Description: Vhannibal E2 Settings File For 7e, 13e, 19e & 42e - Debugging files
 OE: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e
@@ -6465,14 +6479,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 4fa985ca7386e76a3f215bcbe650c799
-Size: 786
-Filename: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 1d341124c979a4120fb24056e087945b
+Size: 788
+Filename: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e.bb
 Description: Vhannibal E2 Settings File For 7e, 13e, 19e & 42e - Development files
 OE: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e
@@ -6480,13 +6494,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 4be2cc4bf96b3e82f0c64cbe3404f4fd
-Size: 73728
-Filename: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 62108366ca919dfc36916a702d471633
+Size: 73742
+Filename: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e.bb
 Description: Vhannibal E2 Settings File For 7e, 13e, 19e & 42e
 OE: enigma2-plugin-settings-vhannibal.quad.7e.13e.19e.42e
@@ -6494,13 +6508,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 231657d087f943175f81459d0ceec7a5
-Size: 750
-Filename: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: c7a7503a2bb3f58b188322458b35189f
+Size: 754
+Filename: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e.bb
 Description: Vhannibal E2 Settings File For 9e, 13e, 16e & 19e - Debugging files
 OE: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e
@@ -6508,14 +6522,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 07a04d9271367a88b1361eee0ff8a0a8
-Size: 782
-Filename: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 8af79ec050eb33653e9c0d761794e8ae
+Size: 788
+Filename: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e.bb
 Description: Vhannibal E2 Settings File For 9e, 13e, 16e & 19e - Development files
 OE: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e
@@ -6523,13 +6537,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 057d1a0edab550963edaa71571f5169f
-Size: 118536
-Filename: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 168ec7eed3e7afcee1e4c754c5b6a987
+Size: 120498
+Filename: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e.bb
 Description: Vhannibal E2 Settings File For 9e, 13e, 16e & 19e
 OE: enigma2-plugin-settings-vhannibal.quad.9e.13e.16e.19e
@@ -6537,13 +6551,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.quad.nordic-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: c18de4bfd2964509792ac499aeae9434
-Size: 738
-Filename: enigma2-plugin-settings-vhannibal.quad.nordic-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: c2289efcafab497d629a977a007063c1
+Size: 740
+Filename: enigma2-plugin-settings-vhannibal.quad.nordic-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.quad.nordic.bb
 Description: Vhannibal E2 Settings File Quad Nordic - Debugging files
 OE: enigma2-plugin-settings-vhannibal.quad.nordic
@@ -6551,14 +6565,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.quad.nordic-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.quad.nordic (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.quad.nordic (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: be3f1c7907f00733d42c0fa7dbb987e8
-Size: 770
-Filename: enigma2-plugin-settings-vhannibal.quad.nordic-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 6c5fedb2b1784a4bf553a92eec32ed29
+Size: 772
+Filename: enigma2-plugin-settings-vhannibal.quad.nordic-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.quad.nordic.bb
 Description: Vhannibal E2 Settings File Quad Nordic - Development files
 OE: enigma2-plugin-settings-vhannibal.quad.nordic
@@ -6566,13 +6580,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.quad.nordic
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 2a0a29496a06ed860443a098b8ce1782
-Size: 81264
-Filename: enigma2-plugin-settings-vhannibal.quad.nordic_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 55b74b590bb536fbe0c97a42fc499f20
+Size: 81258
+Filename: enigma2-plugin-settings-vhannibal.quad.nordic_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.quad.nordic.bb
 Description: Vhannibal E2 Settings File Quad Nordic
 OE: enigma2-plugin-settings-vhannibal.quad.nordic
@@ -6580,13 +6594,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.trial-dbg
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 47924b568f23f4d368bb933bc831c552
-Size: 728
-Filename: enigma2-plugin-settings-vhannibal.trial-dbg_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: 97042460f066a85db7e943e4e85f0d85
+Size: 730
+Filename: enigma2-plugin-settings-vhannibal.trial-dbg_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.trial.bb
 Description: Vhannibal E2 Settings File trial - Debugging files
 OE: enigma2-plugin-settings-vhannibal.trial
@@ -6594,14 +6608,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.trial-dev
-Version: 1.0+git4232+edc00a6-r6
-Depends: enigma2-plugin-settings-vhannibal.trial (= 1.0+git4232+edc00a6-r6)
+Version: 1.0+git4240+23ba529-r6
+Depends: enigma2-plugin-settings-vhannibal.trial (= 1.0+git4240+23ba529-r6)
 Section: devel
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: b9b5451b61fb9909e17c8ecd051bc2cd
-Size: 760
-Filename: enigma2-plugin-settings-vhannibal.trial-dev_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: fc55969a8834038764ef7f119ddd3eba
+Size: 764
+Filename: enigma2-plugin-settings-vhannibal.trial-dev_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.trial.bb
 Description: Vhannibal E2 Settings File trial - Development files
 OE: enigma2-plugin-settings-vhannibal.trial
@@ -6609,13 +6623,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-settings-vhannibal.trial
-Version: 1.0+git4232+edc00a6-r6
+Version: 1.0+git4240+23ba529-r6
 Section: base
 Architecture: all
 Maintainer: oe-alliance team
-MD5Sum: 9147aca80b6165c157e8dc03374b0ac6
-Size: 105630
-Filename: enigma2-plugin-settings-vhannibal.trial_1.0+git4232+edc00a6-r6_all.ipk
+MD5Sum: b5b63f87a1812e9c848ea0191f175758
+Size: 105572
+Filename: enigma2-plugin-settings-vhannibal.trial_1.0+git4240+23ba529-r6_all.ipk
 Source: enigma2-plugin-settings-vhannibal.trial.bb
 Description: Vhannibal E2 Settings File trial
 OE: enigma2-plugin-settings-vhannibal.trial
@@ -6971,8 +6985,8 @@ Version: 20200504-r0
 Section: base
 Architecture: all
 Maintainer: oe-alliance
-MD5Sum: b6b6b79ffea84ef2d3beba7c76d7398c
-Size: 4152
+MD5Sum: fdd5dd5ae2d87c52b45dd191c1e7c3f8
+Size: 4156
 Filename: epgimport-rytec_20200504-r0_all.ipk
 Source: epgimport-rytec.bb
 Description: Rytec's sources and channels for the EPG importer
@@ -10797,6 +10811,49 @@ HomePage: http://roy.marples.name/projects/openresolv
 License: BSD-2-Clause
 Priority: optional
 
+Package: os-release-dbg
+Version: 1.0-r0
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: f7ad06e571b410eefbbe1d110f0b28a9
+Size: 740
+Filename: os-release-dbg_1.0-r0_all.ipk
+Source: os-release.bb
+Description: Operating system identification - Debugging files
+OE: os-release
+License: MIT
+Priority: optional
+
+Package: os-release-dev
+Version: 1.0-r0
+Depends: os-release (= 1.0-r0)
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 6567251ade7e3e027788de061d4639dd
+Size: 772
+Filename: os-release-dev_1.0-r0_all.ipk
+Source: os-release.bb
+Description: Operating system identification - Development files
+OE: os-release
+License: MIT
+Priority: optional
+
+Package: os-release
+Version: 1.0-r0
+Section: base
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b3a2b2e153a58a8c5ac5ca738d55dcba
+Size: 828
+Filename: os-release_1.0-r0_all.ipk
+Source: os-release.bb
+Description: Operating system identification
+OE: os-release
+License: MIT
+Priority: optional
+
 Package: packagegroup-openplugins-dbg
 Version: 1.0-r1
 Section: devel
@@ -10931,13 +10988,13 @@ License: MIT
 Priority: optional
 
 Package: tuxbox-common-dbg
-Version: 1.0+git640+d5994c2-r0
+Version: 1.0+git641+18794c9-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: c0dbce75886e9810aa5595e37e481888
+MD5Sum: 389925ea392fa8d53ba0141ff34c4cec
 Size: 708
-Filename: tuxbox-common-dbg_1.0+git640+d5994c2-r0_all.ipk
+Filename: tuxbox-common-dbg_1.0+git641+18794c9-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files - Debugging files
 OE: tuxbox-common
@@ -10945,14 +11002,14 @@ License: Proprietary
 Priority: optional
 
 Package: tuxbox-common-dev
-Version: 1.0+git640+d5994c2-r0
-Depends: tuxbox-common (= 1.0+git640+d5994c2-r0)
+Version: 1.0+git641+18794c9-r0
+Depends: tuxbox-common (= 1.0+git641+18794c9-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: 2c78220098129047b1318d0c3841565c
-Size: 740
-Filename: tuxbox-common-dev_1.0+git640+d5994c2-r0_all.ipk
+MD5Sum: 1f2448de5d412abad6f987514de7d878
+Size: 742
+Filename: tuxbox-common-dev_1.0+git641+18794c9-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files - Development files
 OE: tuxbox-common
@@ -10960,13 +11017,13 @@ License: Proprietary
 Priority: optional
 
 Package: tuxbox-common
-Version: 1.0+git640+d5994c2-r0
+Version: 1.0+git641+18794c9-r0
 Section: base
 Architecture: all
 Maintainer: OE-Alliance team
-MD5Sum: 3066da6127ac4f2e44832bbab6a2e825
-Size: 58768
-Filename: tuxbox-common_1.0+git640+d5994c2-r0_all.ipk
+MD5Sum: f46d317389a17af584700f15177da214
+Size: 58804
+Filename: tuxbox-common_1.0+git641+18794c9-r0_all.ipk
 Source: tuxbox-common_0.1.1.bb
 Description: Tuxbox common files
 OE: tuxbox-common
