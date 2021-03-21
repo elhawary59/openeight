@@ -1,17 +1,3 @@
-Package: enigma2-plugin-extensions-atmolightd
-Version: 0.7-pre22
-Section: extra
-Architecture: all
-Maintainer: mamba0815 <mamba0815@gmx.li>
-MD5Sum: af17593ec8ad4a00c1fa843ccb17be6f
-Size: 851522
-Filename: enigma2-plugin-extensions-atmolightd_0.7-pre22_all.ipk
-Source: www.noip.com
-Description: Sedulight/Atmolight/amBXlight/Karatelight for Enigma2
-OE: 1.6
-HomePage: http://www.i-have-a-dreambox.com/wbb2/thread.php?threadid=136415
-Priority: optional
-
 Package: enigma2-plugin-extensions-blackout-blind_1.3_all
 Version: 1.3
 Section: extra
@@ -22,22 +8,6 @@ Size: 2386
 Filename: enigma2-plugin-extensions-blackout-blind_1.3_all.ipk
 Description: blacks out two lines on top of the screen
 OE: enigma2-plugin-extensions-blackout-blind_1.3_all
-Priority: optional
-
-Package: enigma2-plugin-extensions-boblight-enigma2
-Version: 0.8r8
-Depends: libusb-1.0-0,kernel-module-cdc-acm,kernel-module-ftdi-sio,kernel-module-usbserial, libgomp*
-Section: extra
-Architecture: mips32el
-Maintainer: Speedy1985 <boblightenigma2@gmail.com> and Oktay Oeztueter <wp.oktay.com>. Edited by Jypy for OpenPli
-MD5Sum: 83eb30fef9840be96c19ae29017b6cf7
-Size: 1656026
-Filename: enigma2-plugin-extensions-boblight-enigma2_0.8r8_mips32el.ipk
-Source: https://github.com/Speedy1985
-Description: Sedulight/Atmolight/Karatelight/Adalight/Ibelight/Diodelight(Ikea)/Lightpack for Enigma2
-OE: 2.0
-HomePage: http://www.boblightenigma2.net/
-License: OPEN
 Priority: optional
 
 Package: enigma2-plugin-extensions-camofs
@@ -107,15 +77,13 @@ HomePage: www.fs-plugins.de
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2piconizer
-Version: 1.08_20190708
-Depends: python-mmap, python-multiprocessing
-Section: extra
+Version: 1.14.20201213
+Section: misc
 Architecture: all
-Maintainer: <kiddac2015@gmail.com>
-MD5Sum: 31d9b38c7d588a10019de6633116f62d
-Size: 2827336
-Filename: enigma2-plugin-extensions-e2piconizer_1.08_20190708_all.ipk
-Source: https://www.linuxsat-support.com
+Maintainer: kiddac
+MD5Sum: 3976bbee8be135758d50cf220d47c44b
+Size: 2752572
+Filename: enigma2-plugin-extensions-e2piconizer_1.14.20201213_all.ipk
 Description: E2 Piconizer - Picon Downloader/Creator
 Priority: optional
 
@@ -241,13 +209,13 @@ HomePage: none
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediaportal
-Version: 2020053103
-Depends: python-youtube-dl (>= 2020.06.16), python-pkgutil, nodejs (>= 4.4.3), python-subprocess, python-netclient, python-six, python-pprint, python-email, python-json, python-pyopenssl, python-xml, python-html, python-pycrypto, python-misc, python-numbers, python-textutils, python-twisted-core, python-twisted-web, python-compression, python-imaging, python-requests (>= 2.11.1)
+Version: 2020060204
+Depends: python-youtube-dl, python-pkgutil, nodejs (>= 4.4.3), python-subprocess, python-netclient, python-six, python-pprint, python-email, python-json, python-pyopenssl, python-xml, python-html, python-pycrypto, python-misc, python-numbers, python-textutils, python-twisted-core, python-twisted-web, python-compression, python-imaging, python-requests (>= 2.11.1)
 Section: extra
 Architecture: all
 Maintainer: MP
-MD5Sum: ebf802dcf594dfa6b16904a525504d68
-Size: 3243030
+MD5Sum: 44ad66e9975b54e2e03fea59a75afbdd
+Size: 3219748
 Filename: enigma2-plugin-extensions-mediaportal_all.ipk
 Source: GIT
 Description: MediaPortal
@@ -484,14 +452,14 @@ OE: screensaver-5.7
 Priority: optional
 
 Package: enigma2-plugin-extensions-serienrecorder
-Version: 3.9.0
+Version: 4.1.5
 Depends: enigma2, python-sqlite3, python-json, python-textutils, openssl, python-pyopenssl, python-zlib, python-compression, python-xmlrpc, python-difflib, python-numbers, python-subprocess, python-email, python-html
 Section: extra
 Architecture: all
 Maintainer: einfall & MacDisein & w22754 & egn
-MD5Sum: c137d9c2f261181f118433d2a4d68f9a
-Size: 445416
-Filename: enigma2-plugin-extensions-serienrecorder_3.9.0_all.ipk
+MD5Sum: b1bfd8200e668b7d116c5b05a0597ec6
+Size: 457562
+Filename: enigma2-plugin-extensions-serienrecorder_4.1.5_all.ipk
 Source: https://github.com/einfall/serienrecorder
 Description: Erstellt automatisiert Timer fuer deine Lieblings-Serien - nie mehr eine Folge verpassen!
 OE: linux-oe2.0
@@ -564,16 +532,16 @@ HomePage: http://www.vuplus-support.org
 Priority: optional
 
 Package: enigma2-plugin-extensions-sundtekcontrolcenter
-Version: 20180605-2
+Version: 20200915-2
 Section: extra
 Architecture: all
 Maintainer: Sundtek
-MD5Sum: 88c6067a061f2a357aa49e4b36aabb68
-Size: 98436
-Filename: enigma2-plugin-extensions-sundtekcontrolcenter_20180605-2_all.ipk
+MD5Sum: 110477e71058429ba6313b4019b0cc16
+Size: 97788
+Filename: enigma2-plugin-extensions-sundtekcontrolcenter_20200915-2_all.ipk
 Source: none
 Description: control sundtek usb stick from enigma2
-OE: sundtekcontrolcenter-20180605-2
+OE: sundtekcontrolcenter-20200915-2
 HomePage: http://support.sundtek.de
 Priority: optional
 
@@ -633,14 +601,14 @@ HomePage: www.fs-plugins.de
 Priority: optional
 
 Package: enigma2-plugin-extensions-tmbd
-Version: 8.4
+Version: 8.6
 Recommends: python-shell, python-html, python-subprocess, python-xml, python-twisted-web, python-unixadmin, python-misc, python-lxml
 Section: base
 Architecture: all
 Maintainer: Dimitrij <Dima-73@inbox.lv>
-MD5Sum: b29fbe6e36fdeb340c31155458157b9f
-Size: 221496
-Filename: enigma2-plugin-extensions-tmbd_8.4_all.ipk
+MD5Sum: 33eed338f4c4929d9b8af13393a0d30b
+Size: 278474
+Filename: enigma2-plugin-extensions-tmbd_8.6_all.ipk
 Description: Search the internet bases themoviedb.org/kinopoisk.ru
 OE: enigma2-plugin-extensions-tmbd
 HomePage: https://github.com/Dima73/enigma2-plugin-extensions-tmbd
@@ -661,16 +629,14 @@ HomePage: http://www.vuplus-support.org
 Priority: optional
 
 Package: enigma2-plugin-extensions-translator
-Version: 1.1rc1
-Section: extra
+Version: 1.4rc2-fhd-edition
+Section: misc
 Architecture: all
-Maintainer: kashmir
-MD5Sum: e5e86ea89ad0b167a5b90575c8914bb5
-Size: 1820920
-Filename: enigma2-plugin-extensions-translator_1.1rc1_all.ipk
-Source: http://www.kashmir-plugins.de
-Description: EPG YouTube Trailer & Translator Plugin
-HomePage: http://www.kashmir-plugins.de
+Maintainer: Kashmir
+MD5Sum: 31d876c9a07f15e024645650f4ef02d2
+Size: 1902574
+Filename: enigma2-plugin-extensions-translator_1.4rc2-fhd-edition_all.ipk
+Description: EPG YouTube Trailer & Translator by kashmir
 Priority: optional
 
 Package: enigma2-plugin-extensions-transmission
@@ -734,13 +700,13 @@ HomePage: http://www.kashmir-plugins.de
 Priority: optional
 
 Package: enigma2-plugin-extensions-vcs
-Version: 2.7
+Version: 2.9
 Section: base
 Architecture: all
 Maintainer: vlamo <vlamodev@gmail.com>
-MD5Sum: 10e0d16352d211dc31c4a0985e16be8c
-Size: 21354
-Filename: enigma2-plugin-extensions-vcs_2.7_all.ipk
+MD5Sum: 732ea4a7eae8ab339555cea3ef72eee5
+Size: 21520
+Filename: enigma2-plugin-extensions-vcs_2.9_all.ipk
 Description: video clipmodes switcher for enigma2
 OE: enigma2
 Priority: optional
@@ -834,35 +800,34 @@ Description: xbmc Wetter Plugin
 HomePage: http://www.kashmir-plugins.de
 Priority: optional
 
+Package: enigma2-plugin-extensions-xcplugin-forever
+Version: 1.4
+Section: base
+Architecture: all
+Maintainer: lululla
+MD5Sum: 93f2363937188da86e53af1a2b1ba50f
+Size: 1246114
+Filename: enigma2-plugin-extensions-xcplugin-forever_1.4_all.ipk
+Source: /
+Description: XCplugin-Forever Version by Lululla & MMark
+OE: 2.0 - 2.2 - 2.5 -2.6
+HomePage: linuxsat-support forum
+License: *
+Priority: optional
+
 Package: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.transparent
-Version: 2020-04-29--20-31-15
+Version: 2021-01-18--23-59-23
 Section: base
 Architecture: all
 Maintainer: http://picons.eu
-MD5Sum: 61a855a1a09b335b1ee61abb641873d9
-Size: 23293544
-Filename: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.transparent_2020-04-29--20-31-15_all.ipk
+MD5Sum: aba284bc74dd031b3d863b3196703521
+Size: 25503820
+Filename: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.transparent_2021-01-18--23-59-23_all.ipk
 Source: http://picons.eu
 Description: snp-full.220x132-190x102.light.on.transparent
 OE: enigma2-plugin-picons-snp-full.220x132-190x102.light.on.transparent
 HomePage: http://picons.eu
 License: unknown
-Priority: optional
-
-Package: enigma2-plugin-skins-OverlayHD
-Version: 1.82
-Depends: beyonwiz-version-info (>= 19.3-20191106.0) | openatv-version-info (>= 6.4-0) | openpli-bootlogo (>= 20200328) | openvix-version-info (>= 5.3-024)
-Section: skins
-Architecture: all
-Maintainer: IanSav <IS.OzPVR@gmail.com>
-MD5Sum: e1df6033af91e2dd3e41e6009f41a254
-Size: 10365424
-Filename: enigma2-plugin-skins-OverlayHD_1.82_all.ipk
-Source: git://bitbucket.org/IanSav/overlayhd.git;protocol=https
-Description: OverlayHD skin and management plugin for Enigma2 PVRs
-OE: enigma2-plugin-skins-OverlayHD
-HomePage: https://www.bitbucket.org/IanSav/
-License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-bouquetsprotection
